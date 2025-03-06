@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mhunwick
 - 👀 I’m interested in python projects for data blending and SQL manipulation
-- 🌱 I’m currently learning python ;)
 - 📫 How to reach me m@hunwick.com.au
 
 <!---
